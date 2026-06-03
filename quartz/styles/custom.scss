@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+/* Salon seal near site title */
+.left.sidebar .page-title a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.55rem;
+}
+
+.left.sidebar .page-title a::before {
+  content: "";
+  display: inline-block;
+  width: 5rem;
+  height: 5rem;
+  flex: 0 0 5rem;
+  background-image: url("/static/assets/salon-seal.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
