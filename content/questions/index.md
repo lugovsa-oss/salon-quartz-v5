@@ -31,3 +31,12 @@ Institutions are created to serve a mission. Over time, they often begin to serv
   <p class="salon-question-summary">
     Scientific communities need authority, but authority can also distort the search for truth.</p>
 </div>
+
+<div class="salon-question-card">
+  <div class="salon-question-id">Topic 003</div>
+  <h2>Is teaching becoming obsolete?</h2>
+  <p class="salon-question-summary">
+    AI can teach. We all know it. It does it remarkably well. Does that mean teachers are becoming obsolete?</p>
+    <a href="/questions/teaching-and-AI">Discussion</a>
+  <a href="/questions/teaching-and-AI">Is teaching becoming obsolete?</a>
+</div>
