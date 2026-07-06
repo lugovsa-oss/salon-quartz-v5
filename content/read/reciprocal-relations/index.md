@@ -1,6 +1,6 @@
-
-# Reciprocal Relations
-
+---
+title: Reciprocal Relations
+---
 The relations and reciprocity to be discussed here have—at first glance—nothing in common with “mutual relationships” and “mutual obligations.”
 
 These reciprocal relations are of a special kind and belong to physics and chemistry, or more precisely to thermodynamics. They were proposed and formulated in 1931 by the twenty-eight-year-old Norwegian physicist and physical chemist Lars Onsager. He was an outstanding scientist, and in 1968 he received the Nobel Prize in Chemistry.
