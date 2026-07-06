@@ -1,6 +1,7 @@
 # On Physical Difference as the Universal Source of Work
 
 *Alex Lugovskoy*
+
 *Israel*
 
 ![[difference-grabstract.webp]]
