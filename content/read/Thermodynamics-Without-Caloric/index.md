@@ -417,19 +417,22 @@ By moving the system boundary, external heat transfer can be transformed into an
 
 The zeroth law therefore retains a fundamental role in phenomenological thermodynamics, but in statistical mechanics it may be regarded as a consequence of a more general construction.
 
-## **Temperature as the Energetic Price of Statistical Accessibility**
+## Temperature as the Energetic Price of Statistical Accessibility
 
 From the definition
-$$\frac{1}{k_BT} = \left(  
-\frac{\partial\ln\Omega}{\partial U}  
-\right)_{q_i}  
+$$
+\frac{1}{k_B T}
+=
+\left(
+\frac{\partial \ln\Omega}{\partial U}
+\right)_{q_i}
 $$
 
 provided the dependence is locally monotonic and can be inverted, we obtain
 
-$$  
+$$   
 \boxed{  
-k_BT=  
+k_B T=  
 \left(  
 \frac{\partial U}{\partial\ln\Omega}  
 \right)_{q_i}  
@@ -657,7 +660,10 @@ $$
 - Entropy characterizes the statistical measure of microstates compatible with a macrostate.
 - Temperature arises as the intensive quantity that equalizes when energy exchange is permitted:
 
-$$\frac{1}{k_BT} = \left(  
+$$
+\frac{1}{k_B T} 
+= 
+\left(  
 \frac{\partial\ln\Omega}{\partial U}  
 \right)_{q_i}  
 $$
