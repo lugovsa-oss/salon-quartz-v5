@@ -420,7 +420,7 @@ The zeroth law therefore retains a fundamental role in phenomenological thermody
 ## **Temperature as the Energetic Price of Statistical Accessibility**
 
 From the definition
-$$\frac{1}{k_BT}=\left(  
+$$\frac{1}{k_BT} = \left(  
 \frac{\partial\ln\Omega}{\partial U}  
 \right)_{q_i}  
 $$
@@ -657,7 +657,7 @@ $$
 - Entropy characterizes the statistical measure of microstates compatible with a macrostate.
 - Temperature arises as the intensive quantity that equalizes when energy exchange is permitted:
 
-$$\frac{1}{k_BT}=\left(  
+$$\frac{1}{k_BT} = \left(  
 \frac{\partial\ln\Omega}{\partial U}  
 \right)_{q_i}  
 $$
