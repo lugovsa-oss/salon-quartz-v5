@@ -179,13 +179,13 @@ Work and heat are not forms of energy contained inside a system. They characteri
 Consider a gas pushing a piston. The gas exerts a force on the piston, and the point of application of the force is displaced. The transferred energy is mechanical work:
 
 $$  
-\delta W=F,dx.  
+\delta W=Fdx.  
 $$
 
 For a simple gas undergoing a quasistatic process:
 
 $$  
-\delta W=P,dV.  
+\delta W=PdV.  
 $$
 
 If the piston raises a weight, the increase in its potential energy, $mgh$, is an objective result of the work done by the gas.
@@ -195,7 +195,7 @@ Other channels of work include the rotation of a shaft, the passage of charge th
 For a quasistatic process, elementary work can often be written as
 
 $$  
-\delta W=\sum_i X_i,dq^i,  
+\delta W=\sum_i X_idq^i,  
 $$
 
 where $X_i$ are generalized forces and $dq^i$ are the corresponding generalized displacements or fluxes.
@@ -207,7 +207,7 @@ In a general nonequilibrium process, a field description may be required, and a 
 Suppose a rotating shaft stirs a viscous liquid. The shaft performs work:
 
 $$  
-W=\int \tau,d\varphi,  
+W=\int \tau d\varphi,  
 $$
 
 where $\tau$ is the torque and $\varphi$ is the angle of rotation.
@@ -343,7 +343,9 @@ $$
 
 Differentiating with respect to $U_A$, we obtain
 
-$$\left(\frac{\partial\ln\Omega_A}{\partial U_A}\right) = 
+$$
+\left(\frac{\partial\ln\Omega_A}{\partial U_A}\right) 
+= 
 \left(  
 \frac{\partial\ln\Omega_B}{\partial U_B}  
 \right).  
@@ -454,18 +456,19 @@ The condition of local monotonicity is essential. If the function $S(U)$ ceases 
 For a reversible quasistatic process:
 
 $$  
-\delta Q_{\mathrm{rev}}=T,dS.  
+\delta Q_{\mathrm{rev}}=TdS.  
 $$
 
 In the simplest Boltzmann case:
 
 $$  
-dS=k_B,d\ln\Omega,  
+dS=k_Bd\ln\Omega,  
 $$
 
 and therefore
 
-$$\boxed{\delta Q_{\mathrm{rev}}=k_BT,d\ln\Omega  
+$$
+\boxed{\delta Q_{\mathrm{rev}}=k_B T d\ln\Omega  
 }  
 $$
 
@@ -475,8 +478,8 @@ The formula means that, for a reversible process, thermal energy transfer is ass
 
 For an irreversible process, the entropy transferred across the boundary must be distinguished from entropy produced internally:
 
-$$dS=
-
+$$
+dS=
 \frac{\delta Q}{T_{\mathrm{boundary}}}  
 +  
 dS_{\mathrm{gen}},  
