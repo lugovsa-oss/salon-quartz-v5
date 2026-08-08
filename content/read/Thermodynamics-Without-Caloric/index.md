@@ -343,7 +343,8 @@ $$
 
 Differentiating with respect to $U_A$, we obtain
 
-$$\left(\frac{\partial\ln\Omega_A}{\partial U_A}\right)=\left(  
+$$\left(\frac{\partial\ln\Omega_A}{\partial U_A}\right) = 
+\left(  
 \frac{\partial\ln\Omega_B}{\partial U_B}  
 \right).  
 $$
@@ -419,7 +420,7 @@ The zeroth law therefore retains a fundamental role in phenomenological thermody
 ## **Temperature as the Energetic Price of Statistical Accessibility**
 
 From the definition
-$$\frac1{k_BT}=\left(  
+$$\frac{1}{k_BT}=\left(  
 \frac{\partial\ln\Omega}{\partial U}  
 \right)_{q_i}  
 $$
@@ -656,9 +657,9 @@ $$
 - Entropy characterizes the statistical measure of microstates compatible with a macrostate.
 - Temperature arises as the intensive quantity that equalizes when energy exchange is permitted:
 
-$$\frac1{k_BT}=\left(  
+$$\frac{1}{k_BT}=\left(  
 \frac{\partial\ln\Omega}{\partial U}  
-\right)_{q_i}.  
+\right)_{q_i}  
 $$
 
 - Equality of temperatures establishes stationarity of the energy distribution, while stability of equilibrium requires additional conditions involving second derivatives.
