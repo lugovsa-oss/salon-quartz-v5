@@ -1,7 +1,10 @@
 ---
 title: "Thermodynamics Without Caloric: From Microstates to the Laws"
 date: 08/08/2026
+author: Alex Lugovskoy
 ---
+*Alex lugovskoy*
+
 Thermodynamics is usually taught beginning with temperature, pressure, volume, internal energy, and quantity of heat. This is convenient in practice, but it somewhat obscures the logical structure of the theory. All these quantities appear almost simultaneously, and only afterward are the relationships among them established.
 
 Let us try to proceed in the opposite direction: first define a physical system and its states, then examine energy and the ways in which it is transferred, and only afterward introduce the statistical measure of a macrostate and use it to derive temperature, equilibrium, and the laws of thermodynamics.
