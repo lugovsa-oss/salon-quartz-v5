@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: Can Institutions Remain Loyal to Their Original Purpose?
 ---
 Institutions are born to pursue a mission. Yet many eventually seem to prioritize their own survival, growth, and power. Is this simply a recurring failure, or an inherent feature of institutional life?

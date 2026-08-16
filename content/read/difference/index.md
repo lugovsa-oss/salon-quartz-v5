@@ -1,3 +1,7 @@
+---
+created: 2026-07-06
+---
+
 # On Physical Difference as the Universal Source of Work
 
 *Alex Lugovskoy*

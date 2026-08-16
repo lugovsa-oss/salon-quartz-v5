@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: Current Discussions
 ---
 Below are the conversations currently taking place in the Salon.

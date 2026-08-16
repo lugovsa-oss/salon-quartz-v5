@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: Don't you crack nuts with the Great Seal!
 ---
 

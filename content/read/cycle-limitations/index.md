@@ -1,4 +1,5 @@
 ---
+created: 2026-06-01
 title: On the Endless Cycle of Human Limitations Around the Simplicity and Incomprehensibility of the World
 ---
 There are situations in which the correct solution turns out to be profoundly counterintuitive.

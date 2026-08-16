@@ -1,4 +1,5 @@
 ---
+created: 2026-06-05
 title: Teaching in the age of AI
 ---
 I always tell my students: if a teacher’s job were merely to load you up with a sum of facts and concepts, a book would do it better.

@@ -1,4 +1,5 @@
 ---
+created: 2026-08-08
 title: "Thermodynamics Without Caloric: From Microstates to the Laws"
 date: 08/08/2026
 author: Alex Lugovskoy

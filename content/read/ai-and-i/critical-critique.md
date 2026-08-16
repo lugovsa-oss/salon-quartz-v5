@@ -1,4 +1,5 @@
 ---
+created: 2026-06-07
 title: A Critique of the Contemporary Mind
 ---
 (A nocturnal dialogue, not in a smoke-filled kitchen)*
